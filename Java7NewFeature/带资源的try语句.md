@@ -4,7 +4,7 @@ try (Resource res = . . .) {
 }
 try块退出时，会自动调用res.close()。下面给出一个典型的例子，这里要读取一个文件中的所有单词:
 try (Scanner in = new Scanner(new FileInputStream(/usr/share/dict/words")), "UTF-8"){
-	while (in.hasNextO) {
+	while (in.hasNext()) {
 		System.out.println(in.next());
 	}
 }
