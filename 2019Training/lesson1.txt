@@ -1,63 +1,63 @@
-¡‰ñ‚Ì“à—eF
+ï»¿ä»Šå›žã®å†…å®¹ï¼š
 https://www.yamanjo.net/
 
 
 homework
-1.??–Ó‘Å
+1.é”®ç›˜ç›²æ‰“
 https://typing.twi1.me/
-2.excel‚Ì‘€ì
+2.excelã®æ“ä½œ
 https://www.yamanjo.net/beginner/excel/excel.html
 https://www.yamanjo.net/senior/excel/excel.html
 
 
-ƒL[ƒ[ƒhF
-ƒfƒXƒNƒgƒbƒv
-?–Ê
+ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ï¼š
+ãƒ‡ã‚¹ã‚¯ãƒˆãƒƒãƒ—
+æ¡Œé¢
 
-ƒVƒ‡[ƒgƒJƒbƒg
-‰õ·•ûŽ®
+ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆ
+å¿«æ·æ–¹å¼
 
-ƒpƒX
-˜HŒa
+ãƒ‘ã‚¹
+è·¯å¾„
 
-ƒhƒ‰ƒCƒu
-?•„
+ãƒ‰ãƒ©ã‚¤ãƒ–
+ç›˜ç¬¦
 
-Ø‚èŽæ‚è
+åˆ‡ã‚Šå–ã‚Š
 
-ƒRƒs[
+ã‚³ãƒ”ãƒ¼
 
-“\‚è•t‚¯
+è²¼ã‚Šä»˜ã‘
 
-ƒtƒ@ƒCƒ‹
+ãƒ•ã‚¡ã‚¤ãƒ«
 
-ƒtƒHƒ‹ƒ_[
+ãƒ•ã‚©ãƒ«ãƒ€ãƒ¼
 
-Šg’£Žq
-@?–¼
+æ‹¡å¼µå­
+åŽç¼€å
 
-ƒtƒH[ƒ}ƒbƒ^[
-ŠiŽ®‰»
+ãƒ•ã‚©ãƒ¼ãƒžãƒƒã‚¿ãƒ¼
+æ ¼å¼åŒ–
 
-ƒtƒH[ƒ}ƒbƒg
-ŠiŽ®
+ãƒ•ã‚©ãƒ¼ãƒžãƒƒãƒˆ
+æ ¼å¼
 
-ƒ}ƒU[ƒ{[ƒh
-Žå”Â
+ãƒžã‚¶ãƒ¼ãƒœãƒ¼ãƒ‰
+ä¸»æ¿
 
-CD^DVDƒhƒ‰ƒCƒu
+CDï¼DVDãƒ‰ãƒ©ã‚¤ãƒ–
 
-ƒAƒ_ƒvƒ^
+ã‚¢ãƒ€ãƒ—ã‚¿
 
 LAN
 local area network
-‹Çˆæã¤
+å±€åŸŸç½‘
 
 WAN
 wide area network
-›öˆæã¤
-ƒnƒu
-W?Ší
+å¹¿åŸŸç½‘
+ãƒãƒ–
+é›†çº¿å™¨
 
 100Gbps
 10Mbps
@@ -69,35 +69,35 @@ wide area network
 1Mbps-2Mbps
 
 
-ƒvƒƒgƒRƒ‹
-’ÊM??
+ãƒ—ãƒ­ãƒˆã‚³ãƒ«
+é€šä¿¡åè®®
 http,ftp,tcp,ip...
 
-IPV4CIPV6
-ipƒAƒhƒŒƒX
-ip’nš¬
+IPV4ï¼ŒIPV6
+ipã‚¢ãƒ‰ãƒ¬ã‚¹
+ipåœ°å€
 
 ipv4
 0.0.0.0-255.255.255.255
 ipv6
-2001FxxxxFxxxxFxxxxFxxxxFxxxx
+2001ï¼šxxxxï¼šxxxxï¼šxxxxï¼šxxxxï¼šxxxx
 
 
 http://111.123.100.12
 www
-111.123.100.12Ëwww.google.co.jp
+111.123.100.12â‡’www.google.co.jp
 http://1.243.135.21
-1.243.135.21Ëwww.yahoo.co.jp
+1.243.135.21â‡’www.yahoo.co.jp
 
-google.co.jp  www‚ÍƒfƒtƒHƒ‹ƒg
+google.co.jp  wwwã¯ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ
 
 URL
 www.google.co.jp
 
 12.231.11.143
 www.aliber.co.jp
-ƒhƒƒCƒ“
-ˆæ–¼
+ãƒ‰ãƒ¡ã‚¤ãƒ³
+åŸŸå
 
 google.co.jp
 
